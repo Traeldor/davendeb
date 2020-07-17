@@ -1,0 +1,25 @@
+body {
+  background-color: #f3ecc2;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 15%;}
+
+a:hover {color: darkgreen;}
+
+h1 {color: #66bfbf;
+text-align:center;
+font-style:italic;
+font-family: fantasy;}
+
+h3 {color: #66bfbf;
+text-align: center;
+font-family: sans-serif;
+font-style: oblique;}
+
+ .circular {
+   border-radius: 100%;
+ }
