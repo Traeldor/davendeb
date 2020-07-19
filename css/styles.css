@@ -1,0 +1,63 @@
+body {
+  background-color: lightskyblue;
+}
+
+.bkgdimage {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  filter: grayscale(75%);
+}
+.redbox{
+  /*background-color: red;*/
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 0;
+  left: 400px;
+
+}
+.bluebox{
+  /*background-color: blue;*/
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 0;
+  left: 200px;
+  filter: grayscale(100%);
+
+}
+.yellowbox{
+  /*background-color: yellow;*/
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.img1 {
+  border-radius: 18px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+.img2 {
+  border-radius: 18px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+.img3 {
+  border-radius: 18px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+
+.container {
+  /*background-color: grey;*/
+  width: 475px;
+  position: absolute;
+  top: 200px;
+  left: 25%;
+}
