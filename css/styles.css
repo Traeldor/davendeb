@@ -6,7 +6,7 @@ body {
   height: 100%;
   width: 100%;
   position: fixed;
-  filter: grayscale(75%);
+  filter: blur(1.5rem) grayscale(45%) brightness(75%);
 }
 .redbox{
   /*background-color: red;*/
